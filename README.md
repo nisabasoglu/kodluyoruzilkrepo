@@ -23,7 +23,8 @@ git clone https://github.com/nisabasoglu/kodluyoruzilkrepo.git
 
 Pull requestler kabul edilir.Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
 
-#License
+# License
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
+![projenin resmi](image.png)
